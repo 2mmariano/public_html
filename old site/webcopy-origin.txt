@@ -1,0 +1,116 @@
+Uri: http://2msoluciones.com/
+File Name: C:\Downloaded Web Sites\2msoluciones.com\index.htm
+Content Type: text/html
+
+Uri: http://2msoluciones.com/css/bootstrap.css
+File Name: C:\Downloaded Web Sites\2msoluciones.com\css\bootstrap.css
+Content Type: text/css
+
+Uri: http://2msoluciones.com/css/style.css
+File Name: C:\Downloaded Web Sites\2msoluciones.com\css\style.css
+Content Type: text/css
+
+Uri: http://2msoluciones.com/images/2mico.png
+File Name: C:\Downloaded Web Sites\2msoluciones.com\images\2mico.png
+Content Type: image/png
+
+Uri: https://www.facebook.com/2M-Ingeniería-y-Servicios-en-Telecomunicaciones-1686282558302697/
+File Name: C:\Downloaded Web Sites\2msoluciones.com\2M-Ingeniería-y-Servicios-en-Telecomunicaciones-1686282558302697\index.htm
+Content Type: text/html
+
+Uri: http://2msoluciones.com/js/jquery-1.11.1.min.js
+File Name: C:\Downloaded Web Sites\2msoluciones.com\js\jquery-1.11.1.min.js
+Content Type: application/javascript
+
+Uri: http://2msoluciones.com/js/move-top.js
+File Name: C:\Downloaded Web Sites\2msoluciones.com\js\move-top.js
+Content Type: application/javascript
+
+Uri: http://2msoluciones.com/js/easing.js
+File Name: C:\Downloaded Web Sites\2msoluciones.com\js\easing.js
+Content Type: application/javascript
+
+Uri: http://2msoluciones.com/images/2m.png
+File Name: C:\Downloaded Web Sites\2msoluciones.com\images\2m.png
+Content Type: image/png
+
+Uri: http://2msoluciones.com/images/o.png
+File Name: C:\Downloaded Web Sites\2msoluciones.com\images\o.png
+Content Type: image/png
+
+Uri: http://2msoluciones.com/images/m.png
+File Name: C:\Downloaded Web Sites\2msoluciones.com\images\m.png
+Content Type: image/png
+
+Uri: http://2msoluciones.com/images/v.png
+File Name: C:\Downloaded Web Sites\2msoluciones.com\images\v.png
+Content Type: image/png
+
+Uri: http://2msoluciones.com/images/redes.png
+File Name: C:\Downloaded Web Sites\2msoluciones.com\images\redes.png
+Content Type: image/png
+
+Uri: http://2msoluciones.com/images/wifi.png
+File Name: C:\Downloaded Web Sites\2msoluciones.com\images\wifi.png
+Content Type: image/png
+
+Uri: http://2msoluciones.com/images/vigi.png
+File Name: C:\Downloaded Web Sites\2msoluciones.com\images\vigi.png
+Content Type: image/png
+
+Uri: http://2msoluciones.com/images/fix.png
+File Name: C:\Downloaded Web Sites\2msoluciones.com\images\fix.png
+Content Type: image/png
+
+Uri: http://2msoluciones.com/images/acc.png
+File Name: C:\Downloaded Web Sites\2msoluciones.com\images\acc.png
+Content Type: image/png
+
+Uri: http://2msoluciones.com/js/bootstrap.js
+File Name: C:\Downloaded Web Sites\2msoluciones.com\js\bootstrap.js
+Content Type: application/javascript
+
+Uri: http://2msoluciones.com/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\2msoluciones.com\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://2msoluciones.com/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Downloaded Web Sites\2msoluciones.com\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://2msoluciones.com/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Downloaded Web Sites\2msoluciones.com\fonts\glyphicons-halflings-regular.woff2
+Content Type: font/woff2
+
+Uri: http://2msoluciones.com/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\2msoluciones.com\fonts\glyphicons-halflings-regular.woff
+Content Type: font/woff
+
+Uri: http://2msoluciones.com/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\2msoluciones.com\fonts\glyphicons-halflings-regular.ttf
+Content Type: font/ttf
+
+Uri: http://2msoluciones.com/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Downloaded Web Sites\2msoluciones.com\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: http://2msoluciones.com/images/banner.jpg
+File Name: C:\Downloaded Web Sites\2msoluciones.com\images\banner.jpg
+Content Type: image/jpeg
+
+Uri: http://2msoluciones.com/images/img-sp.png
+File Name: C:\Downloaded Web Sites\2msoluciones.com\images\img-sp.png
+Content Type: image/png
+
+Uri: http://2msoluciones.com/images/top_move.png
+File Name: C:\Downloaded Web Sites\2msoluciones.com\images\top_move.png
+Content Type: image/png
+
+Uri: http://2msoluciones.com/images/search.png
+File Name: C:\Downloaded Web Sites\2msoluciones.com\images\search.png
+Content Type: image/png
+
+Uri: https://www.google.com/maps/d/embed?mid=1KCCT5lHxM2nBPHZVSZ010E7lwMk
+File Name: C:\Downloaded Web Sites\2msoluciones.com\maps\d\embed.html
+Content Type: text/html
+
